@@ -1,5 +1,8 @@
 # 395labw16
 
+This is a beautiful README
+==========================
+
 Purpose
 =======
 
@@ -24,3 +27,4 @@ Markdown is handy for creating headers and other text emphasis like **bold**, *i
 
 Hello
 ------
+=======
